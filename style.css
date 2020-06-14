@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(248, 247, 247);
+}
+form {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+ h4 {
+     margin-top: 5%;
+     color: blue;
+ }
+ button {
+     margin-top: 4%;
+ }
